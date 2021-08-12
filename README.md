@@ -1,1 +1,1 @@
-# Information-Retrievel
+# Information-Retrieval
